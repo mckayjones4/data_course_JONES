@@ -5,3 +5,4 @@ Yu-Ya is super helpful!
 Yu-Ya is very helpful
 Yu-Ya is very helpful
 In this course, I'm going to be analyzing biological data
+\n Adding new lines
