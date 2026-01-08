@@ -5,3 +5,6 @@ I am excited to learn R in this course.
 Yu-Ya is super helpful!
 In this course, I'm going to be analyzing biological data.
 My favorite animals are panda bears.
+Molecular mimicry occurs when outside pathogens trigger an autoimmune response.
+
+
