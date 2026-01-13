@@ -2,7 +2,7 @@
 
 This README file contains information about my uploaded assignments
 
-I am excited to learn R in this course.
+I am excited to learn more about R in this course.
 
 Yu-Ya is super helpful!
 
