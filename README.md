@@ -8,7 +8,7 @@ Yu-Ya is super helpful!
 
 In this course, I'm going to be analyzing biological data.
 
-My favorite animals are panda bears.
+My favorite animals are panda bears and sharks.
 
 Molecular mimicry occurs when outside pathogens trigger an autoimmune response.
 
